@@ -1,0 +1,26 @@
+/* Isso é um comentário em CSS. Ele não afeta o código. */
+
+body {
+    background-color: #f0f8ff; /* Um azul bem clarinho (AliceBlue) */
+    font-family: sans-serif;  /* Uma fonte limpa e sem serifa */
+    line-height: 1.6;
+}
+
+header {
+    background-color: #4682b4; /* Um azul mais escuro (SteelBlue) */
+    color: white;             /* Cor do texto: branco */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    color: #333; /* Cor do texto do parágrafo: cinza escuro */
+}
