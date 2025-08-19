@@ -1,1 +1,1 @@
-Olá! Meu nome é kaue pietro e esta é minha primeira vez usando o GitHub e o Codespaces.
+Olá! nos se chamamos Kaue Rian e Guilherme e essa e nossa primeira vez usando o GitHub e o Codespaces.
